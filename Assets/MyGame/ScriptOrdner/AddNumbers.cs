@@ -6,7 +6,7 @@ public class AddNumbers : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        int a = 3;
+        int a = 3
 
         int b = 4;
 
