@@ -1,7 +1,7 @@
 ﻿
 using UnityEngine;
 
-public class AddNumbersScript : MonoBehaviour
+public class AddNumbers : MonoBehaviour
 {
     // Start is called before the first frame update
     void Start()
