@@ -19,4 +19,4 @@ WebGL (RefRes: 1280x720 HD-720p)
 
 <div>
 <img src = "./Screenshots/home-pic-playmode-mythirdscript-addnumbers-cs-Stefanie.jpg" width = "500">
-</div> 
+</div> s
